@@ -13,6 +13,6 @@
 
 
 
-## ➡️ Telas da Aplicação
+## ➡️ Tela da Aplicação consumida com PHP
 
 ![image](https://github.com/yuri-spm/apiLiturgiaDiaria/assets/63649751/0116b9c8-bf9e-42d6-a530-a709e5be30f1)
