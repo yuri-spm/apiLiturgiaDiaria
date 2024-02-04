@@ -8,10 +8,6 @@ $client = new Client();
 
 $url = "https://liturgiadiaria.site/";
 
-// $datenow =  date('d/m/Y');
-
-// echo $datenow;
-
  $request = $client->request('GET',$url);
 
  $dados = json_decode($request->getBody(), true);
